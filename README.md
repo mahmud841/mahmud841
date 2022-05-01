@@ -1,4 +1,4 @@
-Hi 👋 My name is AL MAHMUD SURUJ
+Hi 👋 My name is Al Mahmud SuruJ
 ================================
 
 Software Engineer | | MERN Stack Web Developer
