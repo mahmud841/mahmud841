@@ -1,4 +1,4 @@
-Hi 👋 My name is Al Mahmud SuruJ
+Hi 👋 My Nick Name is Mahmud
 ================================
 
 Software Engineer | | MERN Stack Web Developer
