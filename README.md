@@ -10,6 +10,7 @@ Full-stack Motivated Web Developer with a proven ability to adapt in both self-s
 * ✉️  You can contact me at [mahmudsuruj14@gmail.com](mailto:mahmudsuruj14@gmail.com)
 * 🚀  I'm currently working on [Dream71 E-commerce Based Full-Stack Web Application](http://mobile-corner321.netlify.app)
 * 🧠  I'm learning Advanced React Native
+* 🧠  Recently I've learned Data Analysis & Currently I'm learning Data Science, Machine Learning.
 
 <a href="https://www.twitter.com/Mahmud_suruj20" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Mahmud_suruj20?logo=twitter&style=for-the-badge&color=444e59&labelColor=000000"
