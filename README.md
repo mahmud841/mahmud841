@@ -1,7 +1,7 @@
-Hey 👋 Very Glad To See You!!
+Hey 👋 Great to See You!!
 ================================
 
-Software Engineer | | MERN Stack Web Developer
+Researcher || ML DL AI || Web Developer
 ----------------------------------------------
 
 Full-stack Motivated Web Developer with a proven ability to adapt in both self-starting & collaborative environments while staying focused on achieving high-quality results under strict deadlines, able to build full-stack web applications using different web technologies like React.js, Node.js, MongoDB. Has expertise in working with different CSS frameworks. Proficient in HTML, CSS, JavaScript. Passionate to learn ML/DL/AI, Data Science in the future as well as eager to tackle web development challenges to achieve lasting impacts on user experience.
