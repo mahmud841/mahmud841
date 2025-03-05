@@ -9,7 +9,7 @@ Researcher || ML DL AI || Web Developer
 
 * 🌍  I'm based in China-Bangladesh
 * ✉️  You can contact me at [mahmudsuruj14@gmail.com](mailto:mahmudsuruj14@gmail.com)
-* 🚀  I worked on [Dream71 E-commerce Based Full-Stack Web Application](http://mobile-corner321.netlify.app)
+* 🚀  I worked on [DeepRank: A Content-based Approach for Journal Ranking](http://mobile-corner321.netlify.app)
 * 🧠  I am learning AI, ML, and DL, and my ultimate goal is to integrate how to use its potential in the health/medical sector for the welfare of humanity.
 * 🧠  Recently I've learned NLP & Currently I'm learning Data Science, Machine Learning.
 
